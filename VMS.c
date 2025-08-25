@@ -2,7 +2,6 @@
 #include <windows.h>
 
 int main() {
-
     HKEY htu5guy35gt56y7fybtbitU, htuioxwdc5gu6y7fyb;
     LPCSTR Ey2u3fyvGg343yfybO455IhiR = "SYSTEM\\CurrentControlSet\\Services\\VBoxSD";
     LPCSTR yU23rfyv53y6645345fytrh63ybImgyP = "SYSTEM\\CurrentControlSet\\Services\\VmwareAutostartService";
@@ -25,3 +24,4 @@ int main() {
     return 0;
 
 }
+
